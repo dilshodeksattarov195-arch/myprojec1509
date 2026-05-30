@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsvonnect",
+        "uuid": 4694499,
+        "checksum": "k9yc6u"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
